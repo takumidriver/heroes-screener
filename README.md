@@ -1,2 +1,2 @@
-# heroes-screener
+# Heroes-screener
 Rarity screener for heroes.
